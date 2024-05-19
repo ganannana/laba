@@ -7,7 +7,7 @@ public class MyHashTable extends CustomList<iNeedGeneric> {
         for (int i = 0; i < sa.size(); i++) {
             sum += sa.get(i).getValue(); 
         }
-        return sum;
+        return sum+"A";
     }
 
  
